@@ -1,13 +1,4 @@
-/*
-Name       : Ravi Kant
-USC ID     : 7945-0425-48	
-e-mail     : rkant@usc.edu	
-Submission : Nov 21, 2015
 
-Input Format: programName Data_Location ClassA_name number_of_classA_samples
-				classB_name number_of_classB_samples number_of_test_samples
-
- */
 
 #include <iostream>
 #include <vector>
