@@ -4,17 +4,31 @@ contains  the project for EE660 Machine Learning
 All files are in "All Project FILES"
 
 to run:
-open All PRoject Files/src/
-edit dataDescription.txt to show path of Caltech101 database, number of training and number of test images
-Next, enter following commands in command prompt
+>>open All PRoject Files/src/
+>>edit dataDescription.txt to show path of Caltech101 database, number of training and number of test images
+>>Next, enter following commands in terminal
 cmake .
 make 
-./random
 
+./randomDataSubSampler
+./SIFT_PCA_BagOfWords
+>> this runs bag of words with kNN 
 
+>>Next run normalizer.m in Matlab
+>>again in terminal enter,
 
+./SIFT_PCA_KD_Tree
+ then run KD_Tress.m
+ >> this runs the KD Tree implementation
+ 
+ then again in terminal,
+ ./randomForest
+>> this runs the random forest implementation
 
+To run base line minimum distance to class mean:
+run basePerformance_MinDist2ClassMean.m in MATLAB
 
+Note: Please follow the above order
 
 /*
 Name       : Ravi Kant
