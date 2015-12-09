@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ravi/workspace/USC_Sem3_ML_project/src/randomDataSubSampler.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+dirent.h
+-
+typeinfo
+-
+ctime
+-
+cstdlib
+-
+algorithm
+-
+

@@ -1,0 +1,4 @@
+/home/ravi/workspace/USC_Sem3_ML_project/src/CMakeFiles/SIFT_PCA_NaiveBayes.dir
+/home/ravi/workspace/USC_Sem3_ML_project/src/CMakeFiles/randomForest.dir
+/home/ravi/workspace/USC_Sem3_ML_project/src/CMakeFiles/randomDataSubSampler.dir
+/home/ravi/workspace/USC_Sem3_ML_project/src/CMakeFiles/SIFT_PCA_BagOfWords.dir
