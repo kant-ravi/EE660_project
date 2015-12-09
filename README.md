@@ -1,5 +1,21 @@
-# ee660_deep-learning
+# ee660
 contains  the project for EE660 Machine Learning
+
+All files are in "All Project FILES"
+
+to run:
+open All PRoject Files/src/
+edit dataDescription.txt to show path of Caltech101 database, number of training and number of test images
+Next, enter following commands in command prompt
+cmake .
+make 
+./random
+
+
+
+
+
+
 /*
 Name       : Ravi Kant
 USC ID     : 7945-0425-48	
