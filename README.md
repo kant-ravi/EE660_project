@@ -32,8 +32,8 @@ Note: Please follow the above order
 
 /*
 Name       : Ravi Kant
-USC ID     : 7945-0425-48	
-e-mail     : rkant@usc.edu	
+USC ID     : XXXX-XXXX-XX	
+e-mail     : XXXXXXXX@usc.edu	
 Submission : Nov 21, 2015
 
 Input Format: programName Data_Location ClassA_name number_of_classA_samples
